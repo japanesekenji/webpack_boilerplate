@@ -1,0 +1,22 @@
+{
+    "name": "Kenji\u00f8",
+    "short_name": "Kenji\u00f8",
+    "start_url": "/",
+    "icons": [
+        {
+            "src": "",
+            "sizes": "192x192",
+            "type": "image/png",
+            "purpose": "any maskable"
+        },
+        {
+            "src": "",
+            "sizes": "512x512",
+            "type": "image/png",
+            "purpose": "any maskable"
+        }
+    ],
+    "theme_color": "#151c13",
+    "background_color": "#151c13",
+    "display": "standalone"
+}
